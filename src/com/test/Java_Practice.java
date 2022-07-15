@@ -21,7 +21,7 @@ public class Java_Practice {
 		}
 		
 		
-		
+	System.out.println("Hello World ");	
 		
 		
 		
