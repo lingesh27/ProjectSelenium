@@ -24,6 +24,10 @@ public class Java_Practice {
 	System.out.println("Hello World ");	
 	
 	System.out.println("Afetr Import");
+	
+	System.out.println("Tester Two Code");
+	
+	
 		
 		
 		
